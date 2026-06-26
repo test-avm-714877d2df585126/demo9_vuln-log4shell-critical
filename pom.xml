@@ -46,7 +46,7 @@
         <dependency>
             <groupId>org.apache.calcite.avatica</groupId>
             <artifactId>avatica-core</artifactId>
-            <version>1.22.0</version>
+            <version>1.28.0</version>
         </dependency>
 
         <!-- CVE-2024-31141, CVE-2025-27817 (Apache Kafka Client) - CVSS 7.5 - EPSS 17% - HIGH -->
